@@ -9,5 +9,5 @@ Implementation of array stack written on C programming language.
 5. Top -> Display top element of array.
 
 Further reading: 
-#https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+  https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 
